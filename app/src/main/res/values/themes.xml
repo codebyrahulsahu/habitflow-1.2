@@ -1,0 +1,5 @@
+<resources>
+    <!-- Base application theme. Actual colors/typography are controlled by
+         HabitFlowTheme.kt (Jetpack Compose); this is just the manifest-level theme. -->
+    <style name="Theme.HabitFlow" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
